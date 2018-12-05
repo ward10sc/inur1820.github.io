@@ -1,0 +1,55 @@
+#vasiz { text-align: right; font-family: 'Trebuchet MS'; background-color: #15F601; color: #2EEAAD; margin: 11px; line-height: 1.8; }
+.voziga { padding: 19px; font-family: Helvetica; font-size: 28px; }
+.wynuly { line-height: 1.4; margin: 11px; }
+body { background-color: #877829; margin: 0 auto; font-size: 14px; width: 1527px; padding: 0; font-family: 'Arial Narrow'; color: #F4F6FC; }
+a { color: #FCFEFA; }
+#oqili { margin: 4px; font-family: Arial; }
+.vaweqibi { padding: 12px; margin: 13px; text-align: left; line-height: 1.6; background-color: #1D6684; color: #F8A507; }
+.iwif { font-size: 19px; padding: 19px; }
+.lamax ul li a:hover { background-color: #706E61; color: #FBFDFE; }
+.ifox a:hover { text-decoration: underline; color: #F6F3F3; }
+.lamax ul li { list-style: none outside; }
+.ep { background-color: #009F18; text-align: center; font-size: 26px; font-family: Verdana; }
+.honysepa { font-family: 'Trebuchet MS'; }
+#myd { margin: 17px; font-size: 6px; color: #DC51B1; padding: 17px; }
+#atig { font-family: Verdana; padding: 3px; margin: 10px; }
+.ifox img { margin: 17px; }
+#ubosal { font-family: Verdana; text-align: right; color: #B7AEA8; background-color: #24D2DE; padding: 13px; margin: 18px; line-height: 1.4; }
+#risawaz { background-color: #FD02B0; color: #068957; text-align: right; font-size: 26px; font-family: sans-serif; margin: 2px; line-height: 1.6; }
+#idyho { color: #276F29; background-color: #2773B9; line-height: 1.2; text-align: left; font-size: 8px; padding: 14px; }
+.owoq { clear: both; }
+.ikecuve { background-color: #1CFED5; }
+.exy ul li a { font-size: 13px; text-decoration: none; color: #FFFCF8; }
+#ydoxywax { font-size: 7px; }
+.exy { padding: 16px; color: #FEF6FB; font-size: 22px; background-color: #0578FF; font-family: 'Trebuchet MS'; text-align: right; }
+.lamax ul li a { background-color: #8655A9; color: #F2F3F0; text-decoration: none; padding: 14px 16px; display: block; }
+#uqerojip { line-height: 1.6; color: #23F29D; margin: 13px; font-size: 10px; background-color: #6379F3; }
+#aga { margin: 17px; color: #90A325; line-height: 1.7; background-color: #C07DFB; font-size: 27px; }
+.raz { background-color: #922E95; font-family: Garamond; clear: both; font-size: 16px; text-align: left; color: #FBF3F9; padding: 19px; }
+.ekabe { font-size: 26px; margin: 16px; line-height: 1.2; text-align: center; font-family: Garamond; padding: 3px; background-color: #E6F949; }
+#era { color: #D22BF9; background-color: #28D9E7; text-align: left; margin: 11px; font-size: 28px; }
+.ifox { line-height: 1.6; float: right; width: 66%; background-color: #038FFC; clear: both; color: #F5FCF9; font-family: Tahoma; font-size: 15px; }
+.ymyg { text-align: right; }
+body * { margin: 0; padding: 0; }
+.rypecyga { margin: 4px; font-size: 24px; }
+.ifox p { margin-bottom: 19px; }
+ul li a { padding: 20px 22px; display: block; }
+.exy a { color: #F1FFF1; text-decoration: none; }
+#dugydu { color: #424FFA; }
+.ih { font-family: 'MS Sans Serif'; text-align: left; color: #214E85; line-height: 1.7; padding: 17px; font-size: 13px; }
+#ipizaqu { margin: 19px; font-size: 21px; }
+.uvifadox { font-size: 17px; padding: 2px; line-height: 1.3; text-align: left; margin: 4px; font-family: Tahoma; }
+.oqumopep { text-align: left; line-height: 1.7; font-size: 20px; font-family: sans-serif; padding: 20px; background-color: #641080; }
+.exy ul li { list-style: none outside; margin-right: 29px; float: left; font-size: 15px; }
+.ivani { background-color: #C9E668; padding: 9px; font-size: 10px; margin: 1px; line-height: 1.3; }
+#zu { font-family: sans-serif; color: #8E08D1; padding: 10px; line-height: 1.5; margin: 5px; background-color: #3C1DC8; }
+.ajohole { font-family: Garamond; background-color: #FE6AB0; line-height: 1.3; padding: 4px; margin: 7px; }
+#uco { text-align: right; }
+.lamax { font-family: Garamond; width: 34%; float: left; color: #0C060E; line-height: 1.7; background-color: #7FE43F; font-size: 14px; }
+.ifox a { color: #FDF5F9; text-decoration: none; }
+#ulyfe { padding: 11px; margin: 2px; font-family: Arial; text-align: center; line-height: 1.8; background-color: #AEED66; }
+.ytyse { text-align: center; padding: 2px; line-height: 1.6; background-color: #79580C; color: #B678F7; margin: 19px; font-size: 24px; }
+#xu { font-size: 25px; text-align: left; line-height: 1.3; background-color: #0BBBAB; color: #37660E; }
+.ifox div { margin: 18px; }
+@media screen and (max-width: 642px) { .ifox { width: 100%; } .lamax { width: 100%; } }
+@media screen and (max-width: 1527px) { body { width: 100%; margin: 0px; } }
